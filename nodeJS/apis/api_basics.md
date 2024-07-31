@@ -22,6 +22,8 @@ This section contains a general overview of topics that you will learn in this l
 - Use CORS as middleware in Express (Globally and on a single route).
 - Configure CORS to only allow certain origins to access our API.
 - Explain CORS headers.
+- Define the most awesome framework ever
+- Spell out REST and describe what it is
 
 ### REST
 
